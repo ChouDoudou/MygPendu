@@ -1,0 +1,1359 @@
+fileFormatVersion: 2
+guid: f4941a3d24a5f4048a40ff79ae5a7cba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pendu-interface_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813f234025c59cf43851a30751fee729
+      internalID: 1457559288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb78bd2ea44afe8459e65c1d3b60f07a
+      internalID: -759850137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b4a64e3c9fa143aec44f1452ffcab
+      internalID: -1016279362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c3a79ae9114ca43889a4b10199decc
+      internalID: -1482820791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf5bfd26865524c94621876d3dfee3
+      internalID: 1550818170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf8b0d052d4424e923b173d7309763
+      internalID: -1885502278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b421dceeda5340873f822139ae5aa
+      internalID: -302615392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e2f328c91fe549850a915bde9bd05
+      internalID: -1584371668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_8
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 943
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2466fba12afe4164a984e761ff421a47
+      internalID: 516598501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_9
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 943
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc89b5706f91024bbd6b48095aadcc0
+      internalID: -1396011032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_10
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc807d3f9340843ba1c363a5f09195
+      internalID: 2036586259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_11
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 943
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781542ef39b95ba4ab6c56fb9e8bc5ef
+      internalID: -1572178045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_12
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 943
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517267b02e11224db505bf6d66c8684
+      internalID: 583151084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_13
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 943
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ed592a063bb34385a3b22e997d922
+      internalID: -1045723133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 822
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ffaf692e58d54283128a2cb844043
+      internalID: -446143303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 822
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d004a67c26cf4a4bbe0777246d2c974
+      internalID: -1351289110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 822
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607aad355c3217d48a7d4dde125945df
+      internalID: 324790362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 822
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4d2454ad965b4fad23bcd1b67297e
+      internalID: -167843229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 822
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e05450c384a446b1f21ad8880d204
+      internalID: 526633472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_19
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 822
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151c392ad7f15a47b914e1b915cf702
+      internalID: 169515649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 822
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc9e96339bc6cb45961c9ea6c1d2d66
+      internalID: -397414641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 821
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35305617c9a6969439dc107cfc7cca08
+      internalID: -1645130557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_22
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 821
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1d3d87ccb5ed488a4ffb485833791
+      internalID: -1539837005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_23
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 821
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f177ad4c66caa41bd9c9c7a3213a4a
+      internalID: 912950262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_24
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 821
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94cf79ecf2f346428286cbd6f39aa05
+      internalID: -1772587887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_25
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 821
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e580954de0a7a409a254424d0bf188
+      internalID: -724490105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_26
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 821
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df502e6e0a8377e46b46652859799687
+      internalID: 717690210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_27
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 821
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b74d08c9aebe4d946123c083a4fd8
+      internalID: 929555646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 701
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98b76377e084e1439f0758dd0e1725c
+      internalID: 408336518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 701
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567217e19757e347a8cd90864c67e50
+      internalID: -1363917511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 701
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbcb13b34bcb414cb826d45d27a9422
+      internalID: 1241664757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 701
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea4074f76ff29942bfa028bb207f885
+      internalID: -288820124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_32
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 701
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec8a3fa2f0b324b8aeb30f3ede6706
+      internalID: -469442851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 701
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6eef7547747b42ac0d8d6caf75c1e
+      internalID: -1968624239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_34
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 701
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72825086ce3a44ea69f46b9a424e12
+      internalID: -116910985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 700
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75cba83c77d61543bc58c41ab6e1d4d
+      internalID: -179738102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_36
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 700
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1921868a23c42438128fcafaca65c0
+      internalID: -53325051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_37
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 700
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720700333fb5a0d4c9798cebcf031742
+      internalID: 1167197464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_38
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 700
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda4715fc8fb9c498a1a08cec184260
+      internalID: -1632161478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_39
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 700
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dbeecf61d37074183fd71b2f5e494a
+      internalID: 254471028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_40
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 700
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d19df1e21dafa429778152522da347
+      internalID: 1410723567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_41
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 700
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2d4ac6416eb147ac20e8f81a1d9a9
+      internalID: -517377736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 579
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6ca88ce62a5b4e8f5ad6cdb97db86
+      internalID: -1992559531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 579
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc69ef3c87955499861c87cf5f5003
+      internalID: -615610623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 579
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebad9e5365b9e94387c1b6686322661
+      internalID: -1139424068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_45
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 579
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927eac3f2a6d7e4478421a1dffc9cb5a
+      internalID: 1737159075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 579
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b354f9f9b30d847822a27f1c79b30c
+      internalID: 1382449713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_47
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 579
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38deea5be17850247ad762d399698b66
+      internalID: 1431887939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_48
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 579
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696252cf158c4a94880cf5370a0b182c
+      internalID: 167903791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_49
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 579
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3e39a298cc11419040bb6b2439de6
+      internalID: -1864805070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_50
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 579
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c422ed7b6c7ed42a3a773565b3fc63
+      internalID: -205198735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_51
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 579
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6cdf71b121d442bcf487935996e93
+      internalID: 759372875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 349
+        width: 746
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d2636de9e54343ac45fa093644a71
+      internalID: 689833497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_53
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 349
+        width: 747
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4496993578e3b43b9dd1b2f2a9fbf5
+      internalID: 1383711079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 747
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6130c60bc50b02d43b9c33c711d80334
+      internalID: 853659204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pendu-interface_55
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 118
+        width: 746
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4558c9f820474bc49bd47fe743b3c0fc
+      internalID: -200098689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pendu-interface_0: 1457559288
+      pendu-interface_1: -759850137
+      pendu-interface_10: 2036586259
+      pendu-interface_11: -1572178045
+      pendu-interface_12: 583151084
+      pendu-interface_13: -1045723133
+      pendu-interface_14: -446143303
+      pendu-interface_15: -1351289110
+      pendu-interface_16: 324790362
+      pendu-interface_17: -167843229
+      pendu-interface_18: 526633472
+      pendu-interface_19: 169515649
+      pendu-interface_2: -1016279362
+      pendu-interface_20: -397414641
+      pendu-interface_21: -1645130557
+      pendu-interface_22: -1539837005
+      pendu-interface_23: 912950262
+      pendu-interface_24: -1772587887
+      pendu-interface_25: -724490105
+      pendu-interface_26: 717690210
+      pendu-interface_27: 929555646
+      pendu-interface_28: 408336518
+      pendu-interface_29: -1363917511
+      pendu-interface_3: -1482820791
+      pendu-interface_30: 1241664757
+      pendu-interface_31: -288820124
+      pendu-interface_32: -469442851
+      pendu-interface_33: -1968624239
+      pendu-interface_34: -116910985
+      pendu-interface_35: -179738102
+      pendu-interface_36: -53325051
+      pendu-interface_37: 1167197464
+      pendu-interface_38: -1632161478
+      pendu-interface_39: 254471028
+      pendu-interface_4: 1550818170
+      pendu-interface_40: 1410723567
+      pendu-interface_41: -517377736
+      pendu-interface_42: -1992559531
+      pendu-interface_43: -615610623
+      pendu-interface_44: -1139424068
+      pendu-interface_45: 1737159075
+      pendu-interface_46: 1382449713
+      pendu-interface_47: 1431887939
+      pendu-interface_48: 167903791
+      pendu-interface_49: -1864805070
+      pendu-interface_5: -1885502278
+      pendu-interface_50: -205198735
+      pendu-interface_51: 759372875
+      pendu-interface_52: 689833497
+      pendu-interface_53: 1383711079
+      pendu-interface_54: 853659204
+      pendu-interface_55: -200098689
+      pendu-interface_6: -302615392
+      pendu-interface_7: -1584371668
+      pendu-interface_8: 516598501
+      pendu-interface_9: -1396011032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
